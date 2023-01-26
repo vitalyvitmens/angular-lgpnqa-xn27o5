@@ -1,0 +1,14 @@
+h2 {
+  color: brown;
+  font-style: oblique;
+}
+h3 {
+  color: red;
+}
+h4 {
+  color: green;
+}
+p {
+  color: blue;
+  font-family: cursive;
+}
